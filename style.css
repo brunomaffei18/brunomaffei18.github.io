@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(35,31,32);
+    color: whitesmoke;
+    font: arial;
+    font-family: 'Montserrat', sans-serif; ;
+}
+
+a{
+    color: whitesmoke;
+}
+
+span{
+    color: whitesmoke;
+}
+
+.tabla{
+    text-align: center;
+}
+
+.punto{
+    color: darkgoldenrod;
+}
+
+.logo{
+    width: 0.5cm;
+    vertical-align: bottom;
+}
+
+#intro{
+    font-style: italic;
+}
+
+#ig{
+    background: linear-gradient(to right, purple, fuchsia, yellow);
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+#Gh{
+    color: rgb(203,218,230);
+}
+
+#So{
+    color:orangered;
+}
+
+
